@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🥷🏻
 
 <!--
 **msharran/msharran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Sharran's github stats](https://github-readme-stats.vercel.app/api?username=msharran&count_private=true&show_icons=true)](https://github.com/msharran)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msharran)](https://github.com/msharran)
