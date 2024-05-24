@@ -2,7 +2,7 @@
 
 [![Sharran's github stats](https://github-readme-stats.vercel.app/api?username=msharran&count_private=true&show_icons=true)](https://github.com/msharran)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msharran)](https://github.com/msharran)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msharran&exclude_repo=k8s_jenkins_gitlab_flask)](https://github.com/msharran)
 
 - My pet projects: [labs](https://github.com/msharran/labs)
 - My `nvim + tmux` configurations: [.dotfiles](https://github.com/msharran/.dotfiles)
