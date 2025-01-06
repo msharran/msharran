@@ -5,9 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msharran&exclude_repo=k8s_jenkins_gitlab_flask)](https://github.com/msharran)
 
 - My pet projects: [labs](https://github.com/msharran/labs)
-- My `nvim + kitty + aerospace + macOS` configurations: [.dotfiles](https://github.com/msharran/.dotfiles)
-  
-<img width="1511" alt="Screenshot 2024-02-19 at 4 05 57 PM" src="https://github.com/msharran/msharran/assets/48464543/5753c2de-6dc8-493a-8fd5-91eab6d74852">
+- My `nvim + ghostty + aerospace + macOS` configurations: [.dotfiles](https://github.com/msharran/.dotfiles)
 
 
 <!--
