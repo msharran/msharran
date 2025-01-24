@@ -9,7 +9,7 @@
 <a href="https://github-readme-stats.vercel.app/api?username=msharran&count_private=true&show_icons=true">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=msharran&count_private=true&show_icons=true&show=prs_merged,reviews" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/msharran/codingchallenges.fyi">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msharran&exclude_repo=goserver-k8s-argocd,k8s_jenkins_gitlab_flask&hide=java,HTML,HCL,lua&layout=compact&card_width=320" />
 </a>
 
