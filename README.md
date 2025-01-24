@@ -1,12 +1,17 @@
 ### Hi there 👋
 
-[![Sharran's github stats](https://github-readme-stats.vercel.app/api?username=msharran&count_private=true&show_icons=true)](https://github.com/msharran)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msharran&exclude_repo=k8s_jenkins_gitlab_flask)](https://github.com/msharran)
+- 🔭 Take a look at my Pinned Projects
+- 🌱 My `Neovim + Ghostty + Aerospace + MacOS + Fedora VM` configurations: [.dotfiles](https://github.com/msharran/.dotfiles)
+- ⚡I’m currently working on building a [redis server in Zig](https://github.com/msharran/codingchallenges.fyi/tree/main/redis-server/zig-redis-server)
+- 📫 I find joy in programming, So I solve problems posted in [CodingChallenges](https://codingchallenges.fyi) and [ProtoHackers](https://protohackers.com) as a Hobby during weekends.
 
-- My pet projects: [labs](https://github.com/msharran/labs)
-- My `nvim + ghostty + aerospace + macOS` configurations: [.dotfiles](https://github.com/msharran/.dotfiles)
-
+<a href="https://github-readme-stats.vercel.app/api?username=msharran&count_private=true&show_icons=true">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=msharran&count_private=true&show_icons=true&show=prs_merged,reviews" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msharran&exclude_repo=goserver-k8s-argocd,k8s_jenkins_gitlab_flask&hide=java,HTML,HCL,lua&layout=compact&card_width=320" />
+</a>
 
 <!--
 **msharran/msharran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
