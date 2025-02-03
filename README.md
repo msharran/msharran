@@ -2,7 +2,7 @@
 
 
 - 🔭 Take a look at my Pinned Projects
-- 🌱 My `Neovim + Ghostty + Aerospace + MacOS + Fedora VM` configurations: [.dotfiles](https://github.com/msharran/.dotfiles)
+- 🌱 My `Zed (vim mode) + Aerospace + MacOS + Ubuntu VM` configurations: [.dotfiles](https://github.com/msharran/.dotfiles)
 - ⚡I’m currently working on building a [redis server in Zig](https://github.com/msharran/codingchallenges.fyi/tree/main/redis-server/zig-redis-server)
 - 📫 I find joy in programming, So I solve problems posted in [CodingChallenges](https://codingchallenges.fyi) and [ProtoHackers](https://protohackers.com) as a Hobby during weekends.
 
